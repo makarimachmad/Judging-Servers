@@ -2,7 +2,7 @@
 """
 Created on Sat Jun 27 17:19:35 2020
 
-@author: FUJITSU
+@author: makarim, afif, fathur
 """
 
 '''
